@@ -18,4 +18,4 @@ Visit the website and start learning morse code today!
 
 ---
 
-Made with ❤️ by Aayush278
+Made with ❤️ by Aayush
